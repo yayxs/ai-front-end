@@ -1,12 +1,12 @@
 {
   "scripts": {
-    "dev": "next dev"
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
   },
-  "dependencies": {
-    "next": "^14.1.3",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "nextra": "^2.13.4",
-    "nextra-theme-blog": "^2.13.4"
+  "devDependencies": {
+    "rspress": "^1.16.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
   }
 }
