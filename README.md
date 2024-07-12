@@ -1,11 +1,15 @@
-#### En
+## News
 
-The original intention of this warehouse was to record information related to AI and front-end development. It has now been moved to
+- [2024-07-上旬 https://www.apollo.auto/robotaxi](https://www.apollo.auto/robotaxi) 萝卜快跑引爆武汉
+- [Introducing Devin, the first AI software engineer 2024 年 3 月 12 日 ](https://www.cognition-labs.com/blog)
 
-- [https://github.com/yayxs/astro-personal-brand/blob/main/src/content/blog/ai-front-end.md](https://github.com/yayxs/astro-personal-brand/blob/main/src/content/blog/ai-front-end.md)
+## ChatGPT
 
-#### Simplified Chinese
+它于 2022 年 11 月首次推出。然后升级版 ChatGPT-4 于 2023 年 3 月问世
 
-本仓库建立的原意本是记录 AI 与前端开发相关的信息，现已经迁移至
+以下内容为引用：[https://www.freecodecamp.org/news/install-chatgpt-in-vscode/](https://www.freecodecamp.org/news/install-chatgpt-in-vscode/)
 
-- [https://github.com/yayxs/astro-personal-brand/blob/main/src/content/blog/ai-front-end.md](https://github.com/yayxs/astro-personal-brand/blob/main/src/content/blog/ai-front-end.md)
+1、使用 ChatGPT 聊天就好像您在与人聊天一样，使其成为一种直观且用户友好的工具。
+2、ChatGPT 通过快速准确地回答您的问题来最大限度地提高工作效率。
+3、ChatGPT 可以从用户交互中学习并随着时间的推移进行改进。这使它成为个人和企业的宝贵资源，帮助他们在节奏越来越快、要求越来越高的世界中保持竞争力。
+4、ChatGPT 可以充当助手，通过更快、更高效地完成任务来节省您的时间。
