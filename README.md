@@ -3,6 +3,10 @@
 - [2024-07-上旬 https://www.apollo.auto/robotaxi](https://www.apollo.auto/robotaxi) 萝卜快跑引爆武汉
 - [Introducing Devin, the first AI software engineer 2024 年 3 月 12 日 ](https://www.cognition-labs.com/blog)
 
+## 开发工具
+
+- [6 月 26 日，豆包 MarsCode 发布会](https://juejin.cn/post/7382411119326068763?searchId=202407121419295A9857B4D412EB38A325)
+
 ## ChatGPT
 
 它于 2022 年 11 月首次推出。然后升级版 ChatGPT-4 于 2023 年 3 月问世
