@@ -1,3 +1,16 @@
+# ai-front-end
+
+> AI 时代已来，影响的不只是前端
+
+## 介绍
+
+和 掘金的 **AGI 知识库** [AGI 掘金知识库 - 飞书](https://www.feishu.cn/community/article/wiki?id=7390269992593260545&fromUser=https://github.com/yayxs/ai-front-end)
+
+不谋而合
+/bùmóu’érhé/
+
+不过会有一些自己的小整理
+
 ## News
 
 - [2024-07-上旬 https://www.apollo.auto/robotaxi](https://www.apollo.auto/robotaxi) 萝卜快跑引爆武汉
